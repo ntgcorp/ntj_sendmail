@@ -1,0 +1,32 @@
+{
+  "mail_1": {
+    "id": "mail_001",
+    "to": ["ntgcorp@gmail.com"],
+    "cc": ["stefano.petrone@falcricrv.org"],
+    "ccn": [],
+    "subject": "Prima email di test - Poesia sulla natura",
+    "format": "txt",
+    "body": "Il vento sussurra tra gli alberi,\nle foglie danzano nel cielo azzurro,\nil sole tramonta dietro i monti,\ne la luna sorge piano piano.\n\nLa natura ci parla in silenzio,\ncon la sua bellezza infinita,\nci ricorda quanto è prezioso,\nogni momento di questa vita.",
+    "attach": []
+  },
+  "mail_2": {
+    "id": "mail_002",
+    "to": ["stefano.petrone@falcricrv.org", "ntgeshop@gmail.com"],
+    "cc": [],
+    "ccn": ["ntgcorp@gmail.com"],
+    "subject": "Seconda email di test - Poesia sul mare",
+    "format": "html",
+    "body": "<html><body><h2>Il Mare</h2><p><i>Le onde si infrangono sulla riva,<br/>portando con sé storie lontane,<br/>il sale nell'aria profuma l'estate,<br/>mentre i gabbiani volano sereni.</i></p><p><i>L'orizzonte infinito ci chiama,<br/>verso terre sconosciute e avventure,<br/>il mare è libertà e mistero,<br/>custode di tesori e di paure.</i></p></body></html>",
+    "attach": []
+  },
+  "mail_3": {
+    "id": "mail_003",
+    "to": ["ntgeshop@gmail.com"],
+    "cc": ["ntgcorp@gmail.com", "stefano.petrone@falcricrv.org"],
+    "ccn": [],
+    "subject": "Terza email di test - Poesia sulle stelle",
+    "format": "txt",
+    "body": "Nella notte stellata e profonda,\nmilioni di luci brillano lassù,\nciascuna stella ha la sua storia,\nun segreto che non svela più.\n\nGuardiamo il cielo con meraviglia,\ncome bambini pieni di sogni,\nle costellazioni sono mappe,\ndi viaggi e di antichi bisogni.\n\nLe stelle ci guidano nel buio,\nci danno speranza e compagnia,\nricordandoci che anche nell'oscurità,\nc'è sempre una piccola via.",
+    "attach": []
+  }
+}

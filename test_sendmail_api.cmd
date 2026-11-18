@@ -1,0 +1,2 @@
+call ntj_sendmail_smtp.cmd ntjobs_maildemo_api.ini
+pause
